@@ -36,7 +36,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  Acme Inc, Street, State, Postal Code
+                  Banda ,Shahjahanpur,UP ,242042
                 </div>
               </div>
 
@@ -57,7 +57,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  +44 1234567890
+                  +917233091999
                 </div>
               </div>
 
@@ -78,7 +78,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  info@acme.org
+                  mimohshukla0001@gmail.com
                 </div>
               </div>
             </div>
